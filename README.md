@@ -1,4 +1,4 @@
-# epic-game
+# NFT Broser Game
  nft browser game for: 
 https://buildspace.so/ Class.
 
