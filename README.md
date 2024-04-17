@@ -1,4 +1,4 @@
-# NFT Broser Game
+# NFT Browser Game
  nft browser game for: 
 https://buildspace.so/ Class.
 
